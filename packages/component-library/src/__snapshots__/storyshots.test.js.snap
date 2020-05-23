@@ -1,0 +1,39 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Alert With Emoji 1`] = `
+<div
+  className="sc-AxjAm cCFWkO"
+>
+  <span>
+    😀 😎 👍 💯
+  </span>
+</div>
+`;
+
+exports[`Storyshots Alert With Text 1`] = `
+<div
+  className="sc-AxjAm cCFWkO"
+>
+  <span>
+    Hohoho
+  </span>
+</div>
+`;
+
+exports[`Storyshots Artifika With Text 1`] = `
+<h1
+  className="sc-AxirZ cRpUD"
+  color="blue"
+  fontFamily="Artifika"
+  fontSize={
+    Array [
+      12,
+      13,
+      14,
+    ]
+  }
+  fontWeight={700}
+>
+  Hello
+</h1>
+`;
