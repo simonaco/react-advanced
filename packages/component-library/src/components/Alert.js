@@ -12,6 +12,7 @@ AlertComponent.propTypes = {
 
 const StyledAlertComponent = styled.div`
   color: red;
+  font-family: Artifika;
 `
 
 export default (props) => (

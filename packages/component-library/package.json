@@ -43,10 +43,8 @@
     "babel-loader": "^8.1.0",
     "rollup": "^2.10.8",
     "rollup-plugin-babel": "^4.4.0",
-    "rollup-plugin-terser": "^6.0.1",
-    "rollup-plugin-bundle-size": "^1.0.3"
-  },
-  "dependencies": {
-    
+    "rollup-plugin-bundle-size": "^1.0.3",
+    "rollup-plugin-copy": "^3.3.0",
+    "rollup-plugin-terser": "^6.0.1"
   }
 }
